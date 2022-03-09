@@ -1,6 +1,26 @@
 # vAPI v1.0
 vAPI is API takes attack data and sends it to one or multiple apis that in the source
 
+### Progress Status
+- [ ] Attack System
+      - [ ] IPv4/URL Validation
+      - [ ] Port Validation
+      - [ ] Time Validation
+- [ ] User Crud/Utils
+     - [ ] Crud
+     - [ ] Key Validation
+     - [ ] Plan Validation
+     - [ ] Max time Validation
+     - [ ] Conn Validation
+     - [ ] Expiry Check
+- [ ] Admin Crud/Utils
+     - [ ] Read, Add, Remove, Edit User
+     - [ ] Read, Add, Remove, Edit APIs
+- [ ] Site Protection
+     - [ ] Rate Limit (If needed)
+     - [ ] Bot Check (Bruteforce etc)
+
+
 # Installation
 ```
 git clone https://github.com/vlang/v
