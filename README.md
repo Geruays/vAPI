@@ -11,9 +11,9 @@ vAPI is API takes attack data and sends it to one or multiple apis that in the s
 - [ ] User Crud/Utils
 
      - [ ] Crud
-     - [ ] Key Validation
+     - [x] Key Validation
      - [ ] Plan Validation
-     - [ ] Max time Validation
+     - [x] Max time Validation
      - [ ] Conn Validation
      - [ ] Expiry Check
 - [ ] Admin Crud/Utils
