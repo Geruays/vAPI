@@ -4,8 +4,11 @@ vAPI is API takes attack data and sends it to one or multiple apis that in the s
 ### Progress Status
 
 - [ ] Attack System
+      
       - [ ] IPv4/URL Validation
+
       - [ ] Port Validation
+
       - [ ] Time Validation
 - [ ] User Crud/Utils
      - [ ] Crud
