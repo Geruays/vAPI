@@ -11,6 +11,7 @@ look on the website for more information ``https://vlang.io``
 # Supported OS
  <img align="left" alt="Ubuntu" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Former_Ubuntu_logo.svg" height="50"/>
  <img align="left" alt="Debian" src="https://upload.wikimedia.org/wikipedia/commons/0/04/Debian_logo.png" height="50"/>
+ <br>
 ```
 Ubuntu/Debian
 ```
