@@ -28,6 +28,7 @@ vAPI is API takes attack data and sends it to one or multiple apis that in the s
 
 # Installation
 ```
+sudo apt install openssl-dev
 git clone https://github.com/vlang/v
 cd v
 make
